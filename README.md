@@ -1,5 +1,17 @@
 # Customer Churn Analysis & Retention Strategy
 
+## Project Summary
+
+This project analyzes telecom customer churn to identify high-risk customer segments and quantify revenue impact. Using **SQL for data analysis** and **Power BI for visualization**, the dashboard reveals key churn drivers and highlights **$139K revenue at risk and $122K potential retention opportunity**.
+
+## Skills Demonstrated
+
+* SQL (Data Cleaning, Aggregation, Churn Analysis)
+* Power BI Dashboard Development
+* DAX Calculations
+* Customer Segmentation
+* Business Insight Generation
+
 ## Overview
 
 This project analyzes telecom customer data to identify key drivers of customer churn and uncover opportunities for targeted retention strategies.
