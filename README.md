@@ -30,7 +30,7 @@ Using **SQL for data analysis** and **Power BI for visualization**, the project 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Preview.jpeg)
+![Dashboard](Dashboard_Preview.png)
 ---
 
 ## Key Insights
